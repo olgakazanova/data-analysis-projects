@@ -67,3 +67,18 @@ Minor UI changes may not influence user behavior — meaningful product improvem
 Growth in revenue was driven by increased user activity, not higher spending per order.
 
 **Tools:** Python (Pandas), A/B Testing, Statistical Analysis, Data Visualization  
+
+
+
+## Marketing Analytics & ROI Analysis (Procrastinate Pro+)
+
+- Analyzed user acquisition and marketing performance across channels and regions  
+- Evaluated key metrics: CAC, LTV, and ROI  
+- Identified unprofitable segments with high acquisition cost and low retention  
+- Found that certain channels and regions (e.g., US market) underperform significantly  
+- Developed data-driven recommendations to improve profitability  
+
+**Key Insight:**  
+High acquisition costs combined with low retention lead to negative ROI in several segments.
+
+**Tools:** Python (Pandas), Cohort Analysis, Unit Economics, Data Visualization  
