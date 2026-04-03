@@ -32,3 +32,17 @@
 Market conditions vary significantly by location, and successful positioning requires balancing price, format, and customer needs.
 
 **Tools:** Python (Pandas), Data Analysis, Data Visualization  
+
+## A/B Testing & User Funnel Analysis (Mobile App)
+
+- Analyzed user behavior using event logs to build a conversion funnel  
+- Identified key drop-off points across the user journey  
+- Calculated conversion rates between funnel stages  
+- Validated A/A test to ensure correct randomization  
+- Performed A/B testing and evaluated statistical significance (Šidák correction)  
+- Found that UI change (new font) had no significant impact on user behavior  
+
+**Key Insight:**  
+Minor UI changes may not influence user behavior — meaningful product improvements require more impactful changes.
+
+**Tools:** Python (Pandas), A/B Testing, Statistical Analysis, Data Visualization  
