@@ -4,7 +4,12 @@
 - Performed exploratory data analysis (EDA) and segmentation  
 - Identified high-risk customer groups and patterns  
 - Found that high-value customers have the highest churn risk  
-- Developed data-driven retention recommendations  
+- Developed data-driven retention recommendations 
+
+**Key Insights:**
+- ~18% churn rate, highest among high-value customers  
+- High balance and low product usage increase churn risk  
+- Active and high-scoring customers are not always loyal  
 
 **Tools:** Python (Pandas, NumPy), EDA, Statistical Analysis  
 
