@@ -17,3 +17,18 @@
 - Generated insights to support product development  
 
 **Tools:** SQL, Database Analysis  
+
+
+## Moscow Food Service Market Analysis
+
+- Analyzed the Moscow restaurant market using real business data  
+- Explored distribution by category, location, pricing, and ratings  
+- Identified competitive landscape and high-demand segments  
+- Found that cafes and restaurants dominate the mid-price segment  
+- Highlighted regional differences in pricing and competition  
+- Developed a data-driven recommendation for opening a coffee shop  
+
+**Key Insight:**  
+Market conditions vary significantly by location, and successful positioning requires balancing price, format, and customer needs.
+
+**Tools:** Python (Pandas), Data Analysis, Data Visualization  
