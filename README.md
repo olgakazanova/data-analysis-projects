@@ -46,3 +46,19 @@ Market conditions vary significantly by location, and successful positioning req
 Minor UI changes may not influence user behavior — meaningful product improvements require more impactful changes.
 
 **Tools:** Python (Pandas), A/B Testing, Statistical Analysis, Data Visualization  
+
+
+## E-commerce A/B Testing & Revenue Analysis
+
+- Analyzed data from an online store to increase revenue  
+- Prioritized hypotheses using ICE and RICE frameworks  
+- Conducted A/B testing to evaluate product changes  
+- Built conversion and revenue metrics across test groups  
+- Identified statistically significant increase in orders per user (+16–18%)  
+- Found no significant change in average order value (effect driven by outliers)  
+- Recommended implementing the winning variation based on key metrics  
+
+**Key Insight:**  
+Growth in revenue was driven by increased user activity, not higher spending per order.
+
+**Tools:** Python (Pandas), A/B Testing, Statistical Analysis, Data Visualization  
